@@ -3643,7 +3643,7 @@ input, select, textarea {
 			}
 
 			#contact > .inner > :nth-child(2n) {
-				padding-left: 10em;
+				padding-left: 0em 2em 3em 4em ;
 				width: 40%;
 			}
 
